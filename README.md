@@ -24,3 +24,8 @@ This repository provides a bot for boosting the number of views on TikTok videos
 ## TeleGram Channel
 
 - https://t.me/SizaGodCh
+## Support Us
+
+If you appreciate our work, consider making a donation!
+
+[![Donate Now](https://img.shields.io/badge/Donate%20Now-Green?style=for-the-badge&logo=appveyor)](https://oxapay.com/donate/50821180)
